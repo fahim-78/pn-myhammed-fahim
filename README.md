@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="gitban.jpg" width="100%">
+</p>
 # pn-muhammed-fahim
 AI Engineer | Machine Learning | NLP | Generative AI | FastAPI Developer
 <h1 align="center">Hi 👋, I'm Muhammed Fahim</h1>
